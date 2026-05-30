@@ -11,5 +11,8 @@ data/
 
 # Все файлы и папки, начинающиеся с .claude
 .claude*
+.agents*
 
 *.pdf
+
+skills-lock.json
